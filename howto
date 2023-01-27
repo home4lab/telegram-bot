@@ -1,0 +1,9 @@
+chat with @botfather in telegram chat
+/newbot
+fill the requirement for creating bot
+
+invite bot to group chat
+/start
+
+open browser to get group chat id
+https://api.telegram.org/bot<token from bot>/getUpdates
