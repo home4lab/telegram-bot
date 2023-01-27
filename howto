@@ -1,9 +1,18 @@
-chat with @botfather in telegram chat
+### 1. chat with @botfather in telegram chat
+
+```
 /newbot
+```
+
 fill the requirement for creating bot
 
-invite bot to group chat
+### 2. invite bot to group chat
+```
 /start
+```
 
+### 3. get group id from token acquired before
 open browser to get group chat id
+
 https://api.telegram.org/bot<token from bot>/getUpdates
+*usually group chat it will begin with - or dash*
